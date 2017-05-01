@@ -1,0 +1,40 @@
+body{
+  font-family: 'Hind Siliguri', sans-serif;
+  font-size: 17px;
+}
+.container h1{
+  color: rgb(162, 95, 74);
+
+}
+
+.row h5{
+  color: rgb(162, 95, 74);
+  font-family: 'Boogaloo', cursive;
+}
+
+.icon-block{
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.row .edu h4{
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.page-footer{
+  background: #e79b2b;
+
+}
+
+.facebook{
+  background: #3B5998;
+  font-family: "lucida grande",tahoma,verdana,arial,sans-serif;
+  text-transform: none;
+}
+
+.github{
+  background: #333;
+  font-family: georgia, serif;
+  text-transform: none;
+}
